@@ -1,0 +1,128 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     4018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\stefr\Downloads\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals-20190822T005633Z-001\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals\SaveTheAnimals0.9_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\stefr\Downloads\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals-20190822T005633Z-001\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals\SaveTheAnimals0.9_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\stefr\Downloads\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals-20190822T005633Z-001\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals\SaveTheAnimals0.9_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\stefr\Downloads\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals-20190822T005633Z-001\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals\SaveTheAnimals0.9_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\stefr\Downloads\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals-20190822T005633Z-001\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals\SaveTheAnimals0.9_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\stefr\Downloads\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals-20190822T005633Z-001\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals\SaveTheAnimals0.9_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\stefr\Downloads\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals-20190822T005633Z-001\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals\SaveTheAnimals0.9_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\stefr\Downloads\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals-20190822T005633Z-001\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals\SaveTheAnimals0.9_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.125 seconds
+Platform assembly: C:\Users\stefr\Downloads\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals-20190822T005633Z-001\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals\SaveTheAnimals0.9_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\stefr\Downloads\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals-20190822T005633Z-001\Trabalho de Conclusão de Curso - Demo jogo - Save the Animals\SaveTheAnimals0.9_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1319 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'EventSystem') is missing!
+ 
+(Filename:  Line: 1656)
+
+UnloadTime: 0.853700 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.094600 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 253.
+Total: 0.215100 ms (FindLiveObjects: 0.025200 ms CreateObjectMapping: 0.004500 ms MarkObjects: 0.159800 ms  DeleteObjects: 0.025400 ms)
+
+The referenced script on this Behaviour (Game Object 'EventSystem') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.119700 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 0.168400 ms (FindLiveObjects: 0.020100 ms CreateObjectMapping: 0.004200 ms MarkObjects: 0.133400 ms  DeleteObjects: 0.010400 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.362700 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 590.
+Total: 0.181200 ms (FindLiveObjects: 0.022000 ms CreateObjectMapping: 0.007700 ms MarkObjects: 0.133500 ms  DeleteObjects: 0.017500 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.643100 ms
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 787.
+Total: 3.378300 ms (FindLiveObjects: 0.104300 ms CreateObjectMapping: 0.030800 ms MarkObjects: 0.544500 ms  DeleteObjects: 2.697600 ms)
+
+The referenced script on this Behaviour (Game Object 'EventSystem') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.601300 ms
+
+Unloading 149 unused Assets to reduce memory usage. Loaded Objects now: 247.
+Total: 1.404500 ms (FindLiveObjects: 0.021800 ms CreateObjectMapping: 0.007500 ms MarkObjects: 0.188300 ms  DeleteObjects: 1.186600 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.416600 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 787.
+Total: 1.268700 ms (FindLiveObjects: 0.035800 ms CreateObjectMapping: 0.010500 ms MarkObjects: 0.176300 ms  DeleteObjects: 1.045700 ms)
+
+The referenced script on this Behaviour (Game Object 'EventSystem') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.569400 ms
+
+Unloading 149 unused Assets to reduce memory usage. Loaded Objects now: 247.
+Total: 1.396600 ms (FindLiveObjects: 0.038100 ms CreateObjectMapping: 0.007400 ms MarkObjects: 0.137700 ms  DeleteObjects: 1.213100 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.470600 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 787.
+Total: 1.185100 ms (FindLiveObjects: 0.021400 ms CreateObjectMapping: 0.008500 ms MarkObjects: 0.167800 ms  DeleteObjects: 0.987300 ms)
+
+The referenced script on this Behaviour (Game Object 'EventSystem') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.605900 ms
+
+Unloading 149 unused Assets to reduce memory usage. Loaded Objects now: 232.
+Total: 1.346600 ms (FindLiveObjects: 0.023600 ms CreateObjectMapping: 0.007800 ms MarkObjects: 0.148300 ms  DeleteObjects: 1.166600 ms)
+
+The referenced script on this Behaviour (Game Object 'EventSystem') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.511200 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 2.680100 ms (FindLiveObjects: 0.048500 ms CreateObjectMapping: 0.006100 ms MarkObjects: 0.163600 ms  DeleteObjects: 2.461400 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.321200 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 253.
+Total: 0.196000 ms (FindLiveObjects: 0.014100 ms CreateObjectMapping: 0.004900 ms MarkObjects: 0.156300 ms  DeleteObjects: 0.020200 ms)
+
+The referenced script on this Behaviour (Game Object 'EventSystem') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.541400 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 0.257900 ms (FindLiveObjects: 0.044800 ms CreateObjectMapping: 0.018400 ms MarkObjects: 0.182300 ms  DeleteObjects: 0.011500 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 52d4 -> priority: 1 
+  Thread -> id: 5014 -> priority: 1 
+  Thread -> id: 2abc -> priority: 1 
