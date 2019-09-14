@@ -1,9 +1,0 @@
-Comandos jogo Escape the Cat
-
-  - Setas direcionais: anda para direita e esquerda
-
-  - Barra de Espaço: pulo
-
-  - Ctrl: interage com as alavancas
-
-  - Shift + seta direcional: corre 

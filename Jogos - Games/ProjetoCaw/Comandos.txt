@@ -1,4 +1,0 @@
-Projeto CAW - Comandos
-
-Setas direcional - movem o avião
-CTRL - atira
